@@ -1,0 +1,32 @@
+1. Fetch all Marketplaces
+	Amazon
+	eBay
+	Rakuten
+	Game
+	Webstore
+	Abebooks
+	Fruugo
+	ONBuy
+	Shopify
+	FBA Inventory
+	Inventory Images-->Tab
+	Need to Store All data in session based on user
+2. List of all inventory Dashboards and inventory for marketplace
+3. buttons functionality and account codes format.
+4. Marketplace related columns and format
+5. Apply changes format
+6. Add product
+7. Add/Edit Sku status
+8. Block an item
+9. unblock an item
+10. block/unblock Log
+11. import Inventory
+12. Export Inventory
+13. Import/Export Log
+14. Delete
+15. Delete Log
+16. StockMovement Log
+17. Flag(Y/N)
+18. Unflag
+19. Manage Flags
+

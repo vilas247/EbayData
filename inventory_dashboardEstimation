@@ -1,0 +1,144 @@
+Inventory Tab Design										---> 14-16 hours
+All Tab
+==========
+1. All Tab api request										---> 4-5 hours
+2. Format of data in table 									---> 3-4 hours
+3. Apply changes button functionality and api call 			---> 7-8 hours
+4. Block an item button functionality and api call 			---> 3-4 hours
+5. Unblock an item button functionality and api call 		---> 3-4 hours
+6. Block/Unblock Log api call and format 					---> 5-6 hours
+7. Delete an item button functionality and api call 		---> 3-4 hours
+8. Delete Log api call and format 							---> 4-5 hours
+9. Stock movement Log api call and format 					---> 7-8 hours
+10. Flag(Y/N) functionality 								---> 4-5 hours
+11. Manage Flags 											---> 7-8 hours
+12. Add/Edit Sku Status 									---> 4-5 hours.
+13. Import Price Inventory 									---> 4-5 hours
+14. Export Inventory 										---> 7-8 hours
+15. Import/Export Log 										---> 4-5 hours
+16. Add product redirection.
+
+Amazon Tab
+==========
+1. Amazon Tab api request									---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Apply changes button functionality and api call 			---> 5-6 hours
+4. Block an item button functionality and api call 			---> 3-4 hours
+5. Unblock an item button functionality and api call 		---> 3-4 hours
+6. Block/Unblock Log api call and format 					---> 5-6 hours
+7. Delete an item button functionality and api call 		---> 3-4 hours
+8. Delete Log api call and format 							---> 4-5 hours
+9. Stock movement Log api call and format 					---> 7-8 hours
+10. Flag(Y/N) functionality 								---> 4-5 hours
+11. Manage Flags 											---> 7-8 hours
+12. Add/Edit Sku Status 									---> 4-5 hours.
+13. Import Price Inventory 									---> 4-5 hours
+14. Export Inventory 										---> 7-8 hours
+15. listing Log 											---> 4-5 hours
+16. Add product redirection.
+
+eBay Tab
+==========
+1. Amazon Tab api request									---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Apply changes button functionality and api call 			---> 5-6 hours
+4. Block an item button functionality and api call 			---> 3-4 hours
+5. Unblock an item button functionality and api call 		---> 3-4 hours
+6. Block/Unblock Log api call and format 					---> 5-6 hours
+7. Delete an item button functionality and api call 		---> 3-4 hours
+8. Delete Log api call and format 							---> 4-5 hours
+9. Stock movement Log api call and format 					---> 7-8 hours
+10. Flag(Y/N) functionality 								---> 4-5 hours
+11. Manage Flags 											---> 7-8 hours
+12. Add/Edit Sku Status 									---> 4-5 hours.
+13. Import Price Inventory 									---> 4-5 hours
+14. Export Inventory 										---> 7-8 hours
+15. listing Log 											---> 4-5 hours
+16. eBay Listed Items 										---> 4-5 hours
+17.eBay Health account 										---> 7-8 hours
+18. Add product redirection.
+
+Rauken Tab
+==========
+1. Rouken Tab api request									---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Apply changes button functionality and api call 			---> 5-6 hours
+4. Block an item button functionality and api call 			---> 3-4 hours
+5. Unblock an item button functionality and api call 		---> 3-4 hours
+6. Delete an item button functionality and api call 		---> 3-4 hours
+7. Flag(Y/N) functionality 									---> 4-5 hours
+8. Manage Flags 											---> 7-8 hours
+9. Import Price Inventory 									---> 4-5 hours
+10. Export Inventory 										---> 7-8 hours
+11. Add product redirection.
+
+Game Tab
+==========
+1. Game Tab api request										---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Add product redirection.
+
+CDiscount Tab
+==========
+1. CDiscount Tab api request								---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Apply changes button functionality and api call 			---> 5-6 hours
+4. Block an item button functionality and api call 			---> 3-4 hours
+5. Unblock an item button functionality and api call 		---> 3-4 hours
+6. Delete an item button functionality and api call 		---> 3-4 hours
+7. Flag(Y/N) functionality 									---> 4-5 hours
+8. Manage Flags 											---> 7-8 hours
+9. Import Price Inventory 									---> 4-5 hours
+10. Export Inventory 										---> 7-8 hours
+11. Add product redirection.
+
+Webstore Tab
+==========
+1. Webstore Tab api request									---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Apply changes button functionality and api call 			---> 5-6 hours
+4. Block an item button functionality and api call 			---> 3-4 hours
+5. Unblock an item button functionality and api call 		---> 3-4 hours
+6. Block/Unblock Log api call and format 					---> 5-6 hours
+7. Delete an item button functionality and api call 		---> 3-4 hours
+8. Delete Log api call and format 							---> 4-5 hours
+7. Flag(Y/N) functionality 									---> 4-5 hours
+8. Manage Flags 											---> 7-8 hours
+9. Add/Edit Sku Status 										---> 4-5 hours
+10. Import Price Inventory 									---> 4-5 hours
+11. Export Inventory 										---> 7-8 hours
+12. Add product redirection.
+
+Abebooks Tab
+==========
+1. Abebooks Tab api request									---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Apply changes button functionality and api call 			---> 5-6 hours
+4. Delete an item button functionality and api call 		---> 3-4 hours
+5. Add product redirection.
+
+SKUcloud Tab
+==========
+1. SKUcloud Tab api request									---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Delete an item button functionality and api call 		---> 3-4 hours
+4. Add product redirection.
+
+onBuy Tab
+==========
+1. onBuy Tab api request									---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+3. Delete an item button functionality and api call 		---> 3-4 hours
+4. Add product redirection.
+
+FBAinventory Tab
+==========
+1. FBAinventory Tab api request								---> 4-5 hours
+2. Format of data in table 									---> 4-5 hours
+
+Inventory Images Tab
+======================
+1. api call and format data 								---> 3-4 days
+
+
+

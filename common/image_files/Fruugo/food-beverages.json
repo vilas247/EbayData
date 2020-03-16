@@ -1,0 +1,932 @@
+﻿[
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Beer"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Bitters"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Cocktail Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Flavored Alcoholic Beverages"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Hard Cider"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Absinthe"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Brandy"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Gin"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Liqueurs"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Rum"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Shochu & Soju"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Tequila"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Vodka"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Whiskey"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Wine"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Buttermilk"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Coffee"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Eggnog"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Fruit Flavored Drinks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Hot Chocolate"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Juice"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Milk"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Non-Dairy Milk"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Powdered Beverage Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Soda"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Sports & Energy Drinks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Tea & Infusions"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Vinegar Drinks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Beverages > Water"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Bagels"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Bakery Assortments"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Breads & Buns"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Cakes & Dessert Bars"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Coffee Cakes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Cookies"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Cupcakes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Donuts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Fudge"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Ice Cream Cones"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Muffins"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Pastries & Scones"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Pies & Tarts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Taco Shells & Tostadas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Bakery > Tortillas & Wraps"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Candied & Chocolate Covered Fruit"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Candy & Chocolate"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Cocktail Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Curry Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Dessert Toppings > Fruit Toppings"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Dessert Toppings > Ice Cream Syrup"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Fish Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Gravy"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Honey"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Horseradish Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Hot Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Ketchup"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Marinades & Grilling Sauces"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Mayonnaise"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Mustard"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Olives & Capers"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Pasta Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Pickled Fruits & Vegetables"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Pizza Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Relish & Chutney"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Salad Dressing"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Satay Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Soy Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Sweet and Sour Sauces"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Syrup"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Tahini"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Tartar Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > White & Cream Sauces"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Condiments & Sauces > Worcestershire Sauce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Baking Chips"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Baking Chocolate"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Baking Flavors & Extracts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Baking Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Baking Powder"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Baking Soda"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Batter & Coating Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Bean Paste"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Bread Crumbs"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Canned & Dry Milk"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Cookie Decorating Kits"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Cooking Oils"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Cooking Starch"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Cooking Wine"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Corn Syrup"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Dough > Bread & Pastry Dough"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Dough > Cookie & Brownie Dough"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Dough > Pie Crusts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Edible Baking Decorations"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Floss Sugar"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Flour"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Food Coloring"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Frosting & Icing"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Lemon & Lime Juice"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Marshmallows"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Meal"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Molasses"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Pie & Pastry Fillings"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Shortening & Lard"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Starter Cultures"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Sugar & Sweeteners"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Tapioca Pearls"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Tomato Paste"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Unflavored Gelatin"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Vinegar"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Waffle & Pancake Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Cooking & Baking Ingredients > Yeast"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Butter & Margarine"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Cheese"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Coffee Creamer"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Cottage Cheese"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Cream"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Sour Cream"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Whipped Cream"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dairy Products > Yogurt"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Apple Butter"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Cheese Dips & Spreads"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Cream Cheese"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Guacamole"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Hummus"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Jams & Jellies"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Nut Butters"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Salsa"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Tapenade"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Dips & Spreads > Vegetable Dip"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Frozen Desserts & Novelties > Ice Cream & Frozen Yogurt"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Frozen Desserts & Novelties > Ice Cream Novelties"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Frozen Desserts & Novelties > Ice Pops"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Canned & Jarred Fruits"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Canned & Jarred Vegetables"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Canned & Prepared Beans"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Dried Fruits"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Dried Vegetables"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Dry Beans"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Apples"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Atemoyas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Avocados"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Babacos"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Bananas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Berries"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Breadfruit"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Cactus Pears"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Cherimoyas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Citrus Fruits > Grapefruits"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Citrus Fruits > Kumquats"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Citrus Fruits > Lemons"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Citrus Fruits > Limequats"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Citrus Fruits > Limes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Citrus Fruits > Oranges"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Citrus Fruits > Tangelos"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Coconuts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Dates"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Feijoas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Figs"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Fruit Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Grapes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Guavas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Homely Fruits"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Kiwis"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Longan"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Loquats"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Lychees"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Madroño"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Mamey"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Mangosteens"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Melons"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Papayas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Passion Fruit"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Pears"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Persimmons"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Physalis"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Pineapples"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Pitahayas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Pomegranates"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Quince"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Rambutans"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Sapodillo"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Sapote"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Soursops"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Starfruits"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Stone Fruits > Apricots"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Stone Fruits > Cherries"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Stone Fruits > Mangoes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Stone Fruits > Peaches & Nectarines"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Stone Fruits > Plumcots"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Stone Fruits > Plums"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Sugar Apples"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Fruits > Tamarindo"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Arracachas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Artichokes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Asparagus"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Beans"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Beets"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Borage"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Broccoli"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Brussel Sprouts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Cabbage"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Cactus Leaves"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Cardoon"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Carrots"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Cauliflower"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Celery"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Celery Roots"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Corn"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Cucumbers"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Eggplants"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Fennel Bulbs"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Fiddlehead Ferns"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Gai Choy"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Gai Lan"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Garlic"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Ginger Root"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Gobo Root"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Arugula"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Beet Greens"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Bok Choy"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Chard"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Chicory"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Choy Sum"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Kale"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Lettuce"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > On Choy"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Salad Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Spinach"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Greens > Yu Choy"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Horseradish Root"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Jicama"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Kohlrabi"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Leeks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Lotus Roots"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Malangas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Mushrooms"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Okra"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Onions"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Parsley Roots"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Parsnips"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Peas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Peppers"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Potatoes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Radishes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Rhubarb"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Shallots"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Sprouts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Squashes & Gourds"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Sugar Cane"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Sunchokes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Sweet Potatoes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Tamarillos"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Taro Root"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Tomatoes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Turnips & Rutabagas"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Vegetable Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Water Chestnuts"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Watercress"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Wheatgrass"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Yams"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fresh & Frozen Vegetables > Yuca Root"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Fruits & Vegetables > Fruit Sauces"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Amaranth"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Barley"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Buckwheat"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Cereal & Granola"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Couscous"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Millet"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Oats, Grits & Hot Cereal"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Quinoa"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Rice"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Rye"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Grains, Rice & Cereal > Wheat"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Meat, Seafood & Eggs > Eggs"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Meat, Seafood & Eggs > Meat > Canned Meats"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Meat, Seafood & Eggs > Meat > Fresh & Frozen Meats"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Meat, Seafood & Eggs > Meat > Lunch & Deli Meats"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Meat, Seafood & Eggs > Seafood > Canned Seafood"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Meat, Seafood & Eggs > Seafood > Fresh & Frozen Seafood"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Nuts & Seeds"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Pasta & Noodles"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Prepared Foods > Prepared Appetizers & Side Dishes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Prepared Foods > Prepared Meals & Entrées"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Seasonings & Spices > Herbs & Spices"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Seasonings & Spices > MSG"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Seasonings & Spices > Pepper"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Seasonings & Spices > Salt"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Breadsticks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Cereal & Granola Bars"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Cheese Puffs"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Chips"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Crackers"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Croutons"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Fruit Snacks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Jerky"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Popcorn"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Pork Rinds"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Pretzels"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Pudding & Gelatin Snacks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Puffed Rice Cakes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Salad Toppings"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Sesame Sticks"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Snack Cakes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Sticky Rice Cakes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Snack Foods > Trail & Snack Mixes"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Tofu, Soy & Vegetarian Products > Cheese Alternatives"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Tofu, Soy & Vegetarian Products > Meat Alternatives"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Tofu, Soy & Vegetarian Products > Seitan"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Tofu, Soy & Vegetarian Products > Tempeh"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Food Items > Tofu, Soy & Vegetarian Products > Tofu"
+	},
+	{
+		"CategoryName": "Food, Beverages & Tobacco > Tobacco Products > Vaporizers & Electronic Cigarettes"
+	}
+]

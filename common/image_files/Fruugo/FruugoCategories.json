@@ -1,0 +1,106 @@
+[
+  {
+    "name": "animal-pet-supplies",
+    "id": "1"
+  },
+
+  {
+    "name": "apparel-accessories",
+    "id": "2"
+  },
+
+  {
+    "name": "arts-entertainment",
+    "id": "3"
+  },
+
+  {
+    "name": "baby-toddler",
+    "id": "4"
+  },
+
+  {
+    "name": "business",
+    "id": "5"
+  },
+
+  {
+    "name": "cameras-optics",
+    "id": "6"
+  },
+
+  {
+    "name": "electronics",
+    "id": "7"
+  },
+
+  {
+    "name": "food-beverages",
+    "id": "8"
+  },
+
+  {
+    "name": "furniture",
+    "id": "9"
+  },
+
+  {
+    "name": "hardware",
+    "id": "10"
+  },
+
+  {
+    "name": "health-beauty",
+    "id": "11"
+  },
+
+  {
+    "name": "home-garden",
+    "id": "12"
+  },
+
+  {
+    "name": "luggage",
+    "id": "13"
+  },
+
+  {
+    "name": "mature",
+    "id": "14"
+  },
+
+  {
+    "name": "media",
+    "id": "15"
+  },
+
+  {
+    "name": "office-supplies",
+    "id": "16"
+  },
+
+  {
+    "name": "religious",
+    "id": "17"
+  },
+
+  {
+    "name": "software",
+    "id": "18"
+  },
+
+  {
+    "name": "sporting-goods",
+    "id": "19"
+  },
+
+  {
+    "name": "toys-games",
+    "id": "20"
+  },
+  
+  {
+    "name": "vehicles",
+    "id": "21"
+  }
+]

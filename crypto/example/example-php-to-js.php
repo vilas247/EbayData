@@ -1,0 +1,18 @@
+<?php
+$data = 'U2FsdGVkX1+ttYS1WPnKH5NUByM7opRSeSMYc9A9gQREeXsIaWK6ofkjL1ZugYeWPt1MlAIHC00o0J0eoBWMnYu56xgy6YsKRRwp67JRztq9l9pIXn/rlPr7tYt68jAhKGhhkY49fPI+GE20aU9CfYAmiRA3UxG1btF0bpxP8QhUTxLb3mvuK2lOiqUKMALiarB9L/OrWVtDSjIgUNd1s1LQ9kk7jtfh8b6AZqnHk2P8lQ4aD1VRgifjnbckW9i7mlVAYMc41WGlaqMZU859PQsnl5xlgd5N1JaaJFmnbf7fwxfq3wXn4Vit4nhYWdqJw85RJ1hPQtAz65hyCi0rtcEjO/KkgRPImf0WQ08JAe84+iH7/PHOQnFb8IRmTUwaOqRp38/tzZzfwye+lOaDwqaezhT0AWaf5NUI5OA0Yxoe3wSoIuTC4GO4riGUbpuGC+98Ed7z2nUQobBjzm4pLS/zqC6x55GuF4FfNyBEGVzMU0h6kWYZasWXaxxoSz5bzLQIZMVvL/yZ3EGJLCs8d2/x+rDSv9lsK0w46R2Mm+01VVEuYFaJs0wjyovD4jdcPV8Jbo951cpodNkFC0rjWkiM8saVPyXxI6gRgblht35Mc6BwZBlwpMJuRc3eP6g/Ah7kj3NmNHXnmoMIGgwp32zLAD9bW7sZ9qCSNQ5otF4tou1y6i7p3JyqYVb0QblE0FYpu0twmJTuVS6eN0ydTiB1b6EhfQ5sWP0QfLkIdPJA2pOB2vA0Hgt8MzYRTi6xrO4UUZW4HszEvmWGsDFvlDQHCKXJQ7tlZqjFnI0SouHPkhoDP2wpsR6ybke0zppmG+h3YY/aPL6yWL0TyC9YfXUVNYTge00jCe0l2QNqQAtHuODDu9n8FPhTqGNBJ5AkTHRi+zX/2+2CZpxyeJEagb9JvuWIjVinUb/KhJDYaEu9qiMvcJvzxTh+fZy3DSfZr1ZNM/LJiOgk6LY/gSkCGfF2/wdLSmQnNlmxksl/usmltv9yHT+ZNgjqv5RRglvPK/tWokd9NNOlFIvQjokcMNqM+6m7fKmFmf8FsO6WCf5KYmZyT2ey3Y29z+JezbOmfrfdvHjVuATR6Odyg7JK11a0jF6nOiFSrk+sp3iUIPTEo9L3r1ZWfWLaGC1ncI8DJkkSTgWsyYX+n/wLAXZ2hnq8+RCYjgyvRWQBMxxJlrgrMuNsSNZ75WdZ6wTcZGvgkQrfYx2a4BSY/E5DX8MUQsyf9IRg6GxcJD8vbj2RqekoUOFE1+aKGCGxaFuPEOpclQZSYpMciNdBNL1lowOVI+ijHfk42zHDCo0QUQDKb7M5vT26szbr6XOANYOY8balUL7ZKmKruNjYYLhxnM21+3hND2ZeYh2DSoaYv4Zj95y0BP6Zt4AR68G4rVEp8ss2JmSWuDp0PhsMY4Pk3fC4B7hwvIAMiH91k4Bbavg0la2gotcXE9bQ2CqutGcZ2HTgcnz8fvcHlH24/FZqFMRnJiXVen/oCeQOdGObPo8sh4BFJcffj145Yi8Mr33sK99FpqsnsxeOeOP7Bf2X2YUMjxQMp2Xiky6tptsX2ekycAFKUWpQlYI0JrhqbESG25yZ5yCnvUsOdiMK6zJoHIvwnxG8d0MOtw3qDUavw/hB8mvnozQnwNwCrKj492XnItOdBc661dgNr87qKTEUZLMOI1U2X3EkVdcxDjaCSkRIKhgt6RDLO2DI7lzvOy8YmhIA9c50Zc9oT3IhZXDr8LGHzX3LGD6aq6GZwGz0KeLk6PDIAOSh2kGOuf+A68Dn9p2w6zRy6E04JJkFecn8swfr7jH7EHOqOm7rD3XKZrNPeoBt6RmdB49tpRrgcWeaQlYV3iy+whwaR9Nq3GSGICKFWn96EBp6ctlpgh430rQ3zMWAPdVdkcDjJlSBPrIhl3itpau5IEX+7bplTqlPtRH10CmUxJIlnE1E0QHxITlYvqYnqbgO6KwAjNYk5UIw/lH9ZQIQ/j2CMB4Ke9tEwHF2+AoMo7ZuMyXGzmp3wIViEPQXW/CNhtLX8mnnTeflU8acmBa63QDYSHHnELGoPTqZ7FYwlwuZebRVKPK/sq9W+lTuTa7JMg8iVcSAM92GtrAn8mnXoTozIDh6nSTEslXLiw==';
+$passphrase = "38aystr0ngpa55w0rd";
+?>
+<script type="text/javascript" src="aes.js"></script>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="../aes-json-format.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    //var encrypt = CryptoJS.AES.encrypt('<?php echo $data ?>', '<?php echo $passphrase ?>');
+	//console.log(encrypt);
+    var decrypt = CryptoJS.AES.decrypt('<?php echo $data ?>', '<?php echo $passphrase ?>');
+	var res = decrypt.toString(CryptoJS.enc.Utf8);
+	$('#data').text(res);
+	
+});
+</script>
+<div id="data"></div>

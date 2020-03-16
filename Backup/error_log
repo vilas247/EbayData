@@ -1,0 +1,7 @@
+[Fri Dec 13 06:21:55.779085 2019] [suexec:notice] [pid 8410] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::48e:d3ff:febc:6682. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 13 06:21:55.791324 2019] [lbmethod_heartbeat:notice] [pid 8410] AH02282: No slotmem from mod_heartmonitor
+[Fri Dec 13 06:21:55.791362 2019] [http2:warn] [pid 8410] AH10034: The mpm module (prefork.c) is not supported by mod_http2. The mpm determines how things are processed in your server. HTTP/2 has more demands in this regard and the currently selected mpm will just not do. This is an advisory warning. Your server will continue to work, but the HTTP/2 protocol will be inactive.
+[Fri Dec 13 06:21:55.791368 2019] [http2:warn] [pid 8410] AH02951: mod_ssl does not seem to be enabled
+[Fri Dec 13 06:21:55.794587 2019] [mpm_prefork:notice] [pid 8410] AH00163: Apache/2.4.39 () configured -- resuming normal operations
+[Fri Dec 13 06:21:55.794606 2019] [core:notice] [pid 8410] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'

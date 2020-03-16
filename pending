@@ -1,0 +1,161 @@
+Inventory Tab Design										---> Done
+All Tab
+==========
+1. All Tab api request										---> Done
+2. Format of data in table 									---> Done
+3. Apply changes button functionality and api call 			---> Done
+4. Block an item button functionality and api call 			---> Done
+5. Unblock an item button functionality and api call 		---> Done
+6. Block/Unblock Log api call and format 					---> Done
+7. Delete an item button functionality and api call 		---> Done
+8. Delete Log api call and format 							---> Done
+9. Stock movement Log api call and format 					---> Done
+10. Flag(Y/N) functionality 								---> Done
+11. Manage Flags 											---> Done
+12. Add/Edit Sku Status 									---> Done
+13. Import Price Inventory 									---> Done
+14. Export Inventory 										---> Done
+15. Import/Export Log 										---> Done
+16. Add product redirection.
+
+Amazon Tab
+==========
+1. Amazon Tab api request									---> Done
+2. Format of data in table 									---> Done
+3. Apply changes button functionality and api call 			---> Done
+4. Block an item button functionality and api call 			---> Done
+5. Unblock an item button functionality and api call 		---> Done
+6. Block/Unblock Log api call and format 					---> Done
+7. Delete an item button functionality and api call 		---> Done
+8. Delete Log api call and format 							---> Done
+9. Stock movement Log api call and format 					---> Done
+10. Flag(Y/N) functionality 								---> Done
+11. Manage Flags 											---> Done
+12. Add/Edit Sku Status 									---> Done
+13. Import Price Inventory 									---> Done
+14. Export Inventory 										---> Done
+15. listing Log 											---> Done
+16. Add product redirection.
+
+eBay Tab
+==========
+1. Amazon Tab api request									---> Done
+2. Format of data in table 									---> Done
+3. Apply changes button functionality and api call 			---> Done
+4. Block an item button functionality and api call 			---> Done
+5. Unblock an item button functionality and api call 		---> Done
+6. Block/Unblock Log api call and format 					---> Done
+7. Delete an item button functionality and api call 		---> Done
+8. Delete Log api call and format 							---> Done
+9. Stock movement Log api call and format 					---> Done
+10. Flag(Y/N) functionality 								---> Done
+11. Manage Flags 											---> Done
+12. Add/Edit Sku Status 									---> Done.
+13. Import Price Inventory 									---> Done
+14. Export Inventory 										---> Done
+15. listing Log 											---> Done
+16. eBay Listed Items 										---> Done
+17.eBay Health account 										---> Done
+18. Add product redirection.
+
+Rauken Tab
+==========
+1. Rouken Tab api request									---> Done
+2. Format of data in table 									---> Done
+3. Apply changes button functionality and api call 			---> Done
+4. Block an item button functionality and api call 			---> Done
+5. Unblock an item button functionality and api call 		---> Done
+6. Delete an item button functionality and api call 		---> Done
+7. Flag(Y/N) functionality 									---> Done
+8. Manage Flags 											---> Done
+9. Import Price Inventory 									---> Done
+10. Export Inventory 										---> Done
+11. Add product redirection.
+
+Game Tab
+==========
+1. Game Tab api request										---> Done
+2. Format of data in table 									---> Done
+3. Add product redirection.
+
+CDiscount Tab
+==========
+1. CDiscount Tab api request								---> Done
+2. Format of data in table 									---> Done
+3. Apply changes button functionality and api call 			---> Done
+4. Block an item button functionality and api call 			---> Done
+5. Unblock an item button functionality and api call 		---> Done
+6. Delete an item button functionality and api call 		---> Done
+7. Flag(Y/N) functionality 									---> Done
+8. Manage Flags 											---> Done
+9. Import Price Inventory 									---> Done
+10. Export Inventory 										---> Done
+11. Add product redirection.
+
+Webstore Tab
+==========
+1. Webstore Tab api request									---> Done
+2. Format of data in table 									---> Done
+3. Apply changes button functionality and api call 			---> Done
+4. Block an item button functionality and api call 			---> Done
+5. Unblock an item button functionality and api call 		---> Done
+6. Block/Unblock Log api call and format 					---> Done
+7. Delete an item button functionality and api call 		---> Done
+8. Delete Log api call and format 							---> Done
+7. Flag(Y/N) functionality 									---> Done
+8. Manage Flags 											---> Done
+9. Add/Edit Sku Status 										---> Done
+10. Import Price Inventory 									---> Done
+11. Export Inventory 										---> Done
+12. Add product redirection.
+
+Abebooks Tab
+==========
+1. Abebooks Tab api request									---> Done
+2. Format of data in table 									---> Done
+3. Apply changes button functionality and api call 			---> Done
+4. Delete an item button functionality and api call 		---> Done
+5. Add product redirection.
+
+SKUcloud Tab
+==========
+1. SKUcloud Tab api request									---> Done
+2. Format of data in table 									---> Done
+3. Delete an item button functionality and api call 		---> Done
+4. Add product redirection.
+
+onBuy Tab
+==========
+1. onBuy Tab api request									---> Done
+2. Format of data in table 									---> Done
+3. Delete an item button functionality and api call 		---> Done
+4. Add product redirection.
+
+FBAinventory Tab
+==========
+1. FBAinventory Tab api request								---> Done
+2. Format of data in table 									---> Done
+
+Trademe Tab
+==========
+All functionalities											---> Pending
+
+Trademe Tab
+==========
+All functionalities											---> Pending
+
+Allegro Tab
+==========
+All functionalities											---> Pending
+
+FNAC Tab
+==========
+All functionalities											---> Pending
+
+
+Inventory Images Tab
+======================
+1. api call and format data 								---> Pending
+
+
+

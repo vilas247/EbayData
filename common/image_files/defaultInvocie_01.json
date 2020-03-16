@@ -1,0 +1,310 @@
+{
+  "name":"<div id='basic-table' style='display: none;'>
+                <div ng-repeat='aData in xmlTempArr track by $index'>
+                    <table id='delivery_{{$index}}'>
+                        <thead>
+                            <tr>
+                                <th>Company Address</th>
+                            </tr>
+                        </thead>
+
+                        <tbody ng-if='comaddr==1'>
+                            <tr ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.name!==undefined'>
+                                <td><span ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.name'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.address1!==undefined'>
+                                <td><span ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.address1'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.address2!==undefined '>
+
+                                <td><span ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.address2'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.city!==undefined '>
+                                <td><span ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.city'></span></td>
+                            </tr>
+
+                            <tr>
+                                <td>{{aData.invoice.invoicetoaddreses.invoicetoaddress.postcode}} </td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.countryname!==undefined '>
+                                <td><span ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.countryname'></span></td>
+                            </tr>
+                        </tbody>
+                        <tbody ng-if='comaddr==0 '>
+
+                            <tr ng-if='compaddress[0].company.CompanyName!==null  && compaddress[0].company.CompanyName!=='' &&  compAddress[0].Company.CompanyName!==undefined'>
+
+                                <td><span ng-bind-html='compAddress[0].Company.CompanyName'></span></td>
+                            </tr>
+                            <tr ng-if='compaddress[0].company.AddressLine1!==null && compaddress[0].company.AddressLine1!=='' &&  compAddress[0].Company.AddressLine1!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.AddressLine1'></span></td>
+                            </tr>
+
+                            <tr ng-if='compAddress[0].Company.AddressLine2!==null && compaddress[0].company.AddressLine2!=='' &&  compAddress[0].Company.AddressLine2!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.AddressLine2'></span></td>
+                            </tr>
+
+                            <tr ng-if='compAddress[0].Company.AddressLine3!==null && compAddress[0].Company.AddressLine3!=='' && compAddress[0].Company.AddressLine3!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.AddressLine3'></span></td>
+                            </tr>
+
+                            <tr ng-if='compAddress[0].Company.City!==null && compaddress[0].company.City!=='' && compAddress[0].Company.City!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.City'></span></td>
+                            </tr>
+
+                            <tr>
+                                <td>{{compAddress[0].Company.PostCode}} </td>
+                            </tr>
+
+                            <tr ng-if='compaddress[0].company.Country!==null && compaddress[0].company.Country!=='' &&  compAddress[0].Company.Country!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.Country'></span></td>
+                            </tr>
+
+                            <tr ng-if='compaddress[0].company.TelephoneNo!='' && compAddress[0].Company.TelephoneNo!=undefined && compaddress[0].company.TelephoneNo!= null  '>
+                                <td>Tel:{{compAddress[0].Company.TelephoneNo}}</td>
+                            </tr>
+
+                            <tr ng-if='compaddress[0].company.Website!==null && compaddress[0].company.Website!=='' && compAddress[0].Company.Website!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.Website'></span></td>
+                            </tr>
+                            <tr ng-if='compaddress[0].company.EmailID!==null && compaddress[0].company.EmailID!=='' && compAddress[0].Company.EmailID!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.EmailID'></span></td>
+                            </tr>
+
+                            <tr ng-if='compaddress[0].company.VATNo!==null && compaddress[0].company.VATNo!=='' && compAddress[0].Company.VATNo!==undefined '>
+
+                                <td><span ng-bind-html='compAddress[0].Company.VATNo'></span></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+
+                    <table id='barcode_{{$index}}'>
+                        <thead>
+                            <tr>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><img id='barImage_{{$index}}' src={{aData.invoice.barcode}} /></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+                    <table id='channel_{{$index}}'>
+                        <tbody>
+                            <tr>
+                                <td>Channel:&nbsp;{{aData.invoice.saleschannel}}</td>
+                            </tr>
+                            <tr>
+                                <td>Order ID:&nbsp;{{aData.invoice.orderid}}</td>
+                            </tr>
+
+                            <tr>
+                                <td>Order Date:&nbsp;{{aData.invoice.purchasedate  | date: dateTimeFormat}}</td>
+                            </tr>
+
+                            <tr>
+                                <td>Ship Via:&nbsp;{{aData.invoice.orderitems.item.shippingservice}}   </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <table id='basic_{{$index}}'>
+                        <thead>
+                            <tr>
+                                <td>Ship To</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.name!==undefined  && aData.invoice.shippingaddreses.shippingaddress.name!==null && aData.invoice.shippingaddreses.shippingaddress.name!=='' '>
+
+                                <td><span ng-bind-html='aData.invoice.shippingaddreses.shippingaddress.name'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.address1!==undefined  && aData.invoice.shippingaddreses.shippingaddress.address1!==null && aData.invoice.shippingaddreses.shippingaddress.address1!=='' '>
+
+                                <td><span ng-bind-html='aData.invoice.shippingaddreses.shippingaddress.address1'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.address2!==undefined && aData.invoice.shippingaddreses.shippingaddress.address2!==null && aData.invoice.shippingaddreses.shippingaddress.address2!=='' '>
+
+                                <td><span ng-bind-html='aData.invoice.shippingaddreses.shippingaddress.address2'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.city!==undefined  && aData.invoice.shippingaddreses.shippingaddress.city!==null && aData.invoice.shippingaddreses.shippingaddress.city!=='' '>
+
+                                <td><span ng-bind-html='aData.invoice.shippingaddreses.shippingaddress.city'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.stateorregion!==undefined && aData.invoice.shippingaddreses.shippingaddress.stateorregion!==null && aData.invoice.shippingaddreses.shippingaddress.stateorregion!=='' '>
+
+                                <td><span ng-bind-html='aData.invoice.shippingaddreses.shippingaddress.stateorregion'></span></td>
+                            </tr>
+
+                            <tr>
+                                <td>{{aData.invoice.shippingaddreses.shippingaddress.postcode}}</td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.countryname!==undefined && aData.invoice.shippingaddreses.shippingaddress.countryname!==null && aData.invoice.shippingaddreses.shippingaddress.countryname!=='' '>
+
+                                <td><span ng-bind-html='checkCountrycode(aData.invoice.shippingaddreses.shippingaddress.countryname)'></span></td>
+                            </tr>
+
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.phone!==undefined  && aData.invoice.shippingaddreses.shippingaddress.phone!==null && aData.invoice.shippingaddreses.shippingaddress.phone!=='' '>
+                                <td>Phone:&nbsp; {{aData.invoice.shippingaddreses.shippingaddress.phone}}</td>
+
+                            </tr>
+
+                            <tr ng-if='aData.invoice.shippingaddreses.shippingaddress.email!==undefined && aData.invoice.shippingaddreses.shippingaddress.email!==null && aData.invoice.shippingaddreses.shippingaddress.email!=='' '>
+
+                                <td>Email:&nbsp;<span ng-bind-html='aData.invoice.shippingaddreses.shippingaddress.email'></span></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                    <table id='order_{{$index}}'>
+                        <thead>
+                            <tr>
+                                <th>SKU</th>
+                                <th>Title</th>
+                                <th>Qty</th>
+                                <th>Unit Price</th>
+                                <th>Total Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr ng-if='aData.invoice.orderitems.item.length>1' ng-repeat='c1 in aData.invoice.orderitems.item'>
+                                <td>{{c1.sku}}</td>
+
+                                <td><span ng-bind-html='c1.producttitle'></span></td>
+                                <td>{{c1.quantity }}</td>
+                                <td>{{c1.unitprice | number :2 }}</td>
+                                <td>{{c1.totalprice | number :2}}</td>
+                            </tr>
+                            <tr ng-if='aData.invoice.orderitems.item.length==undefined'>
+                                <td>{{aData.invoice.orderitems.item.sku}}</td>
+                                <td><span ng-bind-html='aData.invoice.orderitems.item.producttitle'></span></td>
+                                <td>{{aData.invoice.orderitems.item.quantity }}</td>
+                                <td>{{aData.invoice.orderitems.item.unitprice | number :2}}</td>
+                                <td>{{aData.invoice.orderitems.item.totalprice | number :2}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <table id='totalprice_{{$index}}' style='border:1px solid #ddd9d9;'>
+                        <tbody>
+                            <tr>
+                                <td>Sub total:</td>
+                                <td>  {{subtotalunitPrice($index,aData.invoice.orderitems.item)  | number :2}}</td>
+                            </tr>
+                            <tr>
+                                <td>Shipping Price:</td>
+                                <td ng-if='aData.invoice.orderitems.item.length>1'> {{subtotal($index,aData.invoice.orderitems.item )  | number :2}}</td>
+                                <td ng-if='aData.invoice.orderitems.item.length==undefined'> {{subtotal($index,aData.invoice.orderitems.item) | number :2}}</td>
+                            </tr>
+                            <tr ng-if='dbcode==76'>
+                                <td>VAT:</td>
+                                <td ng-if='aData.invoice.orderitems.item.length>1'> {{GrandTotalWithVatHandyStores($index,aData.invoice.orderitems.item,aData.invoice )| number :2 }}</td>
+                                <td ng-if='aData.invoice.orderitems.item.length==undefined'> {{GrandTotalWithVatHandyStores($index,aData.invoice.orderitems.item,aData.invoice) | number :2}}</td>
+                            </tr>
+                            <tr>
+                                <td>Grand Total:</td>
+                                <td ng-if='aData.invoice.orderitems.item.length>1'> {{totalPriceAmt($index,aData.invoice.orderitems.item,aData.invoice )| number :2 }}</td>
+                                <td ng-if='aData.invoice.orderitems.item.length==undefined'> {{totalPriceAmt($index,aData.invoice.orderitems.item,aData.invoice) | number :2}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+                    <table id='BTCreturnaddress_{{$index}}'>
+                        <tbody ng-if='comaddr==1'>
+                            <tr>
+                                <td id='BTreturncomp1A_{{$index}}'>
+                                    <div id='btComp1A_{{$index}}'>
+                                        <span ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.name!==undefined' ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.name'></span>
+                                    </div>
+                                    <div id='btComp1B_{{$index}}'>
+                                        <span ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.address1!==undefined' ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.address1'></span>
+                                    </div>
+                                    <div id='btComp1C_{{$index}}'>
+                                        <span ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.address2!==undefined' ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.address2'></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td id='BTreturncomp1B_{{$index}}'>
+                                    <div id='btComp1D_{{$index}}'>
+                                        <span ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.city!==undefined' ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.city'></span>
+                                    </div>
+                                    <div id='btComp1E_{{$index}}'>
+                                        <span>{{aData.invoice.invoicetoaddreses.invoicetoaddress.postcode}}</span>
+                                    </div>
+                                    <div id='btComp1F_{{$index}}'>
+                                        <span ng-if='aData.invoice.invoicetoaddreses.invoicetoaddress.countryname!==undefined' ng-bind-html='aData.invoice.invoicetoaddreses.invoicetoaddress.countryname'></span>
+                                    </div>
+                                </td>
+                            </tr>
+                        <tbody>
+
+                        <tbody ng-if='comaddr==0'>
+                            <tr>
+                                <td id='BTreturncomp2A_{{$index}}'>
+                                    <div id='btComp2A_{{$index}}'>
+                                        <span ng-if='compaddress[0].company.CompanyName!==null  && compaddress[0].company.CompanyName!=='' &&  compAddress[0].Company.CompanyName!==undefined' ng-bind-html='compAddress[0].Company.CompanyName'></span>
+                                    </div>
+                                    <div id='btComp2B_{{$index}}'>
+                                        <span ng-if='compaddress[0].company.AddressLine1!==null && compaddress[0].company.AddressLine1!=='' &&  compAddress[0].Company.AddressLine1!==undefined ' ng-bind-html='compAddress[0].Company.AddressLine1'></span>
+                                    </div>
+                                    <div id='btComp2C_{{$index}}'>
+                                        <span ng-if='compAddress[0].Company.AddressLine2!==null && compaddress[0].company.AddressLine2!=='' &&  compAddress[0].Company.AddressLine2!==undefined ' ng-bind-html='compAddress[0].Company.AddressLine2'></span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td id='BTreturncomp2B_{{$index}}'>
+                                    <div id='btComp2D_{{$index}}'>
+                                        <span ng-if='compAddress[0].Company.City!==undefined ' ng-bind-html='compAddress[0].Company.City'></span>
+                                    </div>
+                                    <div id='btComp2E_{{$index}}'>
+                                        <span>{{compAddress[0].Company.PostCode}}</span>
+                                    </div>
+                                    <div id='btComp2F_{{$index}}'>
+                                        <span ng-if='compAddress[0].Company.Country!==null && compAddress[0].Company.Country!=='' &&  compAddress[0].Company.Country!==undefined' ng-bind-html='compAddress[0].Company.Country'></span>
+                                    </div>
+                                </td>
+                            </tr>
+                        <tbody>
+                    </table>
+
+                    <table id='new_{{$index}}'>
+                        <thead>
+                            <tr>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>"
+}
